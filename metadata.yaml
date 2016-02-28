@@ -1,0 +1,26 @@
+_repo: Around-the-World-on-a-Bicycle-Volume-I-From-San-Francisco-to-Teheran_5136
+creator:
+  author:
+    agent_name: Stevens, Thomas
+    alias: Stevens, T. (Thomas)
+    birthdate: 1854
+    deathdate: 1935
+    gutenberg_agent_id: '1710'
+    url: http://www.gutenberg.org/2009/agents/1710
+    wikipedia: http://en.wikipedia.org/wiki/Thomas_Stevens_%28cyclist%29
+description: ''
+gutenberg_issued: '2004-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '5136'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Voyages around the world'
+- !lcsh 'Bicycle touring'
+- !lcsh 'Stevens, Thomas, 1854-1935 -- Travel'
+- !lcc 'G'
+title: "Around the World on a Bicycle - Volume I\r\nFrom San Francisco to Teheran"
+url: http://www.gutenberg.org/ebooks/5136
