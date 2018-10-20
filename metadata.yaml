@@ -1,5 +1,5 @@
 _repo: Around-the-World-on-a-Bicycle-Volume-I-From-San-Francisco-to-Teheran_5136
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -28,5 +28,6 @@ subjects:
 - !lcsh 'Bicycle touring'
 - !lcsh 'Stevens, Thomas, 1854-1935 -- Travel'
 - !lcc 'G'
+- GITenberg
 title: "Around the World on a Bicycle - Volume I\r\nFrom San Francisco to Teheran"
 url: http://www.gutenberg.org/ebooks/5136
